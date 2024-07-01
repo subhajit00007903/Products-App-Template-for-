@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities_layout</string>
+    <string name="com_name">Company Name: Apple</string>
+    <string name="p_name">Product Name: Mack book</string>
+    <string name="com_name2">Company Name: Wall Mart</string>
+    <string name="p_name2">Product Name: Wallpaper</string>
+    <string name="Click">Click Me</string>
+</resources>
